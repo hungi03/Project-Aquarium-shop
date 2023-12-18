@@ -1,0 +1,41 @@
+﻿@model CodeFirst_LaptrinhWeb.Models.SANPHAMCACANH
+@{
+    ViewBag.Title = "Details";
+
+}
+
+<div class="container">
+
+    <div class="container" style=" display: flex;margin-top:36px">
+        <h2 style="margin:auto">Thông Tin Chi Tiết Sản Phẩm</h2>
+    </div>
+
+    <div class="container" style=" display: flex; margin-top: 24px;">
+        <img src="~/Data/img/@Model.HinhAnh" style="width: 300px;margin:auto" />
+
+    </div>
+    <div class="container" style="padding:24px">
+        <h3>Tên Sản Phẩm : @Model.TenSanPham</h3>
+        <br />
+        <h3>Giá : <span style="color:red">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @Model.Gia))</span></h3>
+        <br />
+        <h3>Loại : @Model.LOAICA.TenLoaiCa</h3>
+    </div>
+
+    <div class="row" style="padding:40px;min-height:250px">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Nhận Dạng</button>
+                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Môi trường sống</button>
+                <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Thức ăn</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">@Model.MoTa2</div>
+            <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">@Model.MoTa3</div>
+            <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">@Model.MoTa</div>
+        </div>
+    </div>
+
+</div>
+

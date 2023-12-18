@@ -1,0 +1,406 @@
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll.config
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe.config
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\csc.rsp
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe.config
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\csi.rsp
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.AppContext.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Console.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe.config
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.rsp
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\EntityFramework.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\EntityFramework.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CoreCompileInputs.cache
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CopyComplete
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\bin\Diacritics.dll
+C:\Users\HUNG123\source\repos\CodeFirst_LaptrinhWeb\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.AssemblyReference.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\csc.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\csi.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.AppContext.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Console.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\Diacritics.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\EntityFramework.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\EntityFramework.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.AssemblyReference.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CoreCompileInputs.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CopyComplete
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_4_12_9h10 - Copy\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\csc.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\csi.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.AppContext.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Console.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\Diacritics.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\EntityFramework.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\EntityFramework.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.AssemblyReference.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CoreCompileInputs.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CopyComplete
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.InitialCreate.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.GenerateResource.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddCartModel.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddUserModel.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\BCrypt.Net-Next.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\bin\BCrypt.Net-Next.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddRequired.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\csc.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\csi.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.AppContext.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Console.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\BCrypt.Net-Next.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\Diacritics.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\EntityFramework.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\BCrypt.Net-Next.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\EntityFramework.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.AssemblyReference.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.InitialCreate.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddCartModel.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddUserModel.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddRequired.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.GenerateResource.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CoreCompileInputs.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CopyComplete
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_5_12_4h09_ConAdmin\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\CodeFirst_LaptrinhWeb.pdb
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\csc.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\csc.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\csi.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\csi.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.AppContext.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Console.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Http.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.ValueTuple.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\vbc.rsp
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\BCrypt.Net-Next.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\Diacritics.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\EntityFramework.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\BCrypt.Net-Next.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\EntityFramework.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Razor.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Webpages.Razor.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Helpers.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\System.Web.Mvc.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.AssemblyReference.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.InitialCreate.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddCartModel.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddUserModel.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.Migrations.AddRequired.resources
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.GenerateResource.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CoreCompileInputs.cache
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.csproj.CopyComplete
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.dll
+C:\Users\HUNG123\Desktop\DuLieu\CodeFirst_LaptrinhWeb_7_12_8h53_ChinhSua\CodeFirst_LaptrinhWeb\obj\Debug\CodeFirst_LaptrinhWeb.pdb

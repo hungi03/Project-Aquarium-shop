@@ -1,0 +1,92 @@
+﻿@model CodeFirst_LaptrinhWeb.Models.SANPHAMCACANH
+@{
+    ViewBag.Title = "Edit";
+
+}
+
+<div class="container" style="min-height:500px">
+    <h2>Sửa Sản Phẩm</h2>
+    <form style="font-size:24px" method="post" action="/admin/Manage/edit/@Model.SanPhamID" enctype = "multipart/form-data" area="Admin">
+        <input type="hidden" name="SanPhamID" value="@Model.SanPhamID" />
+        <div class="row">
+            <div class="col-md-6">
+                <label for="TenSanPham">Tên Sản Phẩm</label>
+                <input type="text"
+                       class="form-control"
+                       id="TenSanPham"
+                       name="TenSanPham"
+                       value="@Model.TenSanPham" />
+            </div>
+            <div class="col-md-6">
+                <label for="Gia">Giá</label>
+                <input type="text"
+                       class="form-control"
+                       id="Gia"
+                       name="Gia"
+                       value="@Model.Gia" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label for="ProductName">Loại</label>
+                <select class="form-control"
+                        id="LoaiCaID"
+                        name="LoaiCaID">
+                    <option value="">Chọn Loại</option>
+                    @foreach (var item in @ViewBag.LoaiCa)
+                    {
+                        <option value="@item.LoaiCaID">@item.TenLoaiCa</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-6">
+                <label for="HinhAnh">Hình Ảnh</label>
+                <input type="text"
+                       class="form-control"
+                       id="HinhAnh"
+                       name="HinhAnh"
+                       value="@Model.HinhAnh" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label for="MoTa1">Tổng Quát</label>
+                <input type="text"
+                       class="form-control"
+                       id="MoTa1"
+                       name="MoTa1"
+                       value="@Model.MoTa1" />
+            </div>
+            <div class="col-md-6">
+                <label for="MoTa2">Nhận Dạng</label>
+                <input type="text"
+                       class="form-control"
+                       id="MoTa2"
+                       name="MoTa2"
+                       value="@Model.MoTa2" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <label for="MoTa2">Môi Trường Sống</label>
+                <input type="text"
+                       class="form-control"
+                       id="MoTa3"
+                       name="MoTa3"
+                       value="@Model.MoTa3" />
+            </div>
+            <div class="col-md-6">
+                <label for="MoTa">Thức Ăn</label>
+                <input type="text"
+                       class="form-control"
+                       id="MoTa"
+                       name="MoTa"
+                       value="@Model.MoTa" />
+            </div>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+</div>
+
+

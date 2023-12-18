@@ -1,0 +1,50 @@
+﻿@model List<CodeFirst_LaptrinhWeb.Models.Cart>
+@{
+    ViewBag.Title = "GIỎ HÀNG";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+<div class="container" style="min-height:600px">
+    <h2 style="text-align: center; color: red;">@ViewBag.Title</h2>
+    <table class="table table-bordered">
+        <tr>
+            <th>STT</th>
+            <th>Tên Sản Phẩm</th>
+            <th>Số Lượng</th>
+            <th>Giá</th>
+        </tr>
+        @{int i = 1; float totPrice = 0;}
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@i</td>
+                <td>@item.SANPHAMCACANH.TenSanPham</td>
+                <td>
+                    @using (Html.BeginForm("UpdateQuantity", "Cart", FormMethod.Get))
+                    {
+                        <input type="number" value="@item.Quantity" name="quan" min="1" style="width: 80px;" />
+                        <input type="hidden" name="proid" value="@item.SanPhamID" />
+                        <input type="submit" value="Cập nhật" class="btn btn-primary" />
+                        <a class="btn btn-danger" href="/Cart/Delete/@item.CartID">Xóa</a>
+                    }
+                </td>
+                <td>
+                    @{
+                        float Price = item.Quantity * item.SANPHAMCACANH.Gia;
+                        i++;
+                        totPrice += Price;
+                    }
+                    @Price.ToString("N0") VND
+                </td>
+            </tr>
+        }
+        <tr>
+            <td colspan="3" class="text-center fw-bold">Tổng</td>
+            <td class="text-center fw-bold">@totPrice.ToString("N0") VND</td>
+        </tr>
+    </table>
+
+    <a href="/Products/Index" class="btn btn-primary" >Trở về trang chính</a>
+
+</div>

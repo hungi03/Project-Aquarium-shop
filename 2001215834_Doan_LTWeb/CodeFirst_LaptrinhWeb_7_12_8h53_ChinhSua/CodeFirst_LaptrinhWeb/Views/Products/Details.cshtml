@@ -1,0 +1,71 @@
+﻿@model CodeFirst_LaptrinhWeb.Models.SANPHAMCACANH
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+<head>
+    <link rel="stylesheet" href="~/Content/product_detail.css">
+</head>
+<div class="container">
+    <div class="row" style=" padding: 32px;">
+        <div class="col-6">
+            <img src="~/Data/img/@Model.HinhAnh" style="width: 80%;">
+        </div>
+        <div class="col-6">
+            <h3>@Model.TenSanPham</h3>
+            <p>Giá <span style="color:red">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @Model.Gia))</span></p>
+            <div style="padding: 20px; border-top: 1px solid #ebebeb; border-bottom: 1px solid #ebebeb;">
+                Số Lượng
+                <button>-</button>
+                <input class="text-quanity" style="text-align: center;" type="text" value="1">
+                <button>+</button>
+            </div>
+            <div class="container-btn row" style="justify-content: space-around; padding: 24px; border-bottom: 1px solid #ebebeb; ">
+                <div class="cart-btn col-4"><a href="">Thêm Vào giỏ hàng</a></div>
+                <div class="buy-btn col-4"><a href="">Mua ngay</a></div>
+            </div>
+            <div>
+                <strong>@Model.MoTa1</strong>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="padding:40px;min-height:250px">
+        <nav>
+            <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                <button class="nav-link active" id="nav-home-tab" data-bs-toggle="tab" data-bs-target="#nav-home" type="button" role="tab" aria-controls="nav-home" aria-selected="true">Nhận Dạng</button>
+                <button class="nav-link" id="nav-profile-tab" data-bs-toggle="tab" data-bs-target="#nav-profile" type="button" role="tab" aria-controls="nav-profile" aria-selected="false">Môi trường sống</button>
+                <button class="nav-link" id="nav-contact-tab" data-bs-toggle="tab" data-bs-target="#nav-contact" type="button" role="tab" aria-controls="nav-contact" aria-selected="false">Thức ăn</button>
+            </div>
+        </nav>
+        <div class="tab-content" id="nav-tabContent">
+            <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">@Model.MoTa2</div>
+            <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">@Model.MoTa3</div>
+            <div class="tab-pane fade" id="nav-contact" role="tabpanel" aria-labelledby="nav-contact-tab">@Model.MoTa</div>
+        </div>
+    </div>
+    <div class="row" style="justify-content: center;">
+        <h2 style="text-align:center">CÁC SẢN PHẨM TƯƠNG TỰ</h2>
+        @foreach (var item in ViewBag.listsp)
+        {
+            <div class="card table-hover" style="width: 18rem;margin:8px;padding:0px">
+                <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title">@item.TenSanPham</h5>
+                    <p class="card-text"><span style="color:red">Giá : @item.Gia</span></p>
+                    <a href="#" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                </div>
+            </div>
+        }
+        <div class="row">
+            <div class="col-12 text-center" style="padding:40px">
+
+                <a class="btn btn-primary btn-lg" href="/products/index/@Model.LoaiCaID" role="button">Xem tất cả</a>
+            </div>
+
+
+        </div>
+
+    </div>
+
+</div>

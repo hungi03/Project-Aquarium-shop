@@ -1,0 +1,30 @@
+﻿.container-btn a {
+    color: red;
+    text-decoration: none;
+}
+
+.cart-btn {
+    color: red;
+    font-weight: 500;
+    /* color: red; */
+    border: 2px solid red;
+    padding: 24px;
+}
+
+.buy-btn {
+    color: red;
+    font-weight: 500;
+    /* color: red; */
+    border: 2px solid red;
+    padding: 24px;
+}
+
+    .buy-btn:hover,
+    .cart-btn:hover {
+        background-color: red;
+    }
+
+        .buy-btn:hover a,
+        .cart-btn:hover a {
+            color: #fff;
+        }

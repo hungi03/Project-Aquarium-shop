@@ -1,0 +1,383 @@
+﻿@model List<CodeFirst_LaptrinhWeb.Models.SANPHAMCACANH>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+    var UserName = Context.Request.Cookies["auth"];
+    var role = Context.Request.Cookies["role"];
+}
+<head>
+    <link rel="stylesheet" href="~/Content/products.css">
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Scripts/bootstrap.bundle.js" rel="stylesheet" />
+</head>
+<h3 style="text-align: right; background: #503950 !important; padding-bottom: 8px;padding-right:8px" >
+    <span style="color:white">Xin Chào, </span>
+    @if (UserName == null)
+    {
+        <span style="color:red">Vui lòng đăng nhập.<a href="/User/Login"></a></span>
+    }
+    else
+    {
+        <span style="color:red"> @UserName.Value. <a href="/User/Logout">Đăng xuất</a></span>
+    }
+</h3>
+<div class="container-fluid" style="margin:24px 0px">
+    <div class="row">
+        <div class="col-3">
+            <div class="accordion" id="accordionExample">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            <span style="color:red;font-size:30px"> Loại</span>
+                        </button>
+                    </h2>
+                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                        <div class="accordion-body" id="Pro">
+                            <ul style="list-style-type:none">
+                                @foreach (var item in ViewBag.Loai)
+                                {
+                                    <li><a style="font-size:24px;text-decoration:none" href="/Products/Index?search=@item.LoaiCaID">@item.TenLoaiCa</a></li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingTwo">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                            <span style="color:red;font-size:30px"> Theo giá</span>
+                        </button>
+                    </h2>
+                    <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+
+
+                        <form id="filterForm">
+                            <div class="accordion-body" id="Pro">
+                                <div class="price">
+                                    <input type="radio" name="Gia" id="duoi50k" value="duoi50k" data-min="0" data-max="50000">
+                                    <span style="font-size:20px"> Dưới 50.000 đ</span>
+                                </div>
+                                <div class="price">
+                                    <input type="radio" name="Gia" id="tu50den100k" value="tu50den100k" data-min="50000" data-max="100000">
+                                    <span style="font-size:20px"> Từ 50.000 - 100.000đ</span>
+                                </div>
+                                <div class="price">
+                                    <input type="radio" name="Gia" id="tu100den200k" value="tu100den200k" data-min="100000" data-max="200000">
+                                    <span style="font-size:20px">  Từ 100.000 - 200.000đ</span>
+                                </div>
+                                <div class="price">
+                                    <input type="radio" name="Gia" id="tu200den500k" value="tu200den500k" data-min="200000" data-max="500000">
+                                    <span style="font-size:20px"> Từ 200.000 - 500.000đ</span>
+                                </div>
+                                <div class="price">
+                                    <input type="radio" name="Gia" id="500ktrole" value="500ktrolen" data-min="500000" data-max="5000000">
+                                    <span style="font-size:20px">Từ 500.000 đ trở lên</span>
+                                </div>
+
+                                <button type="button" class="btn btn-success" onclick="filterByPrice()">Lọc</button>
+                            </div>
+                        </form>
+
+
+                        <div id="alertMessage" style="color: red; margin-top: 10px;"></div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div class="col-9">
+            <div>
+                <div><h2>SHOP BÁN CÁ CẢNH ONLINE</h2></div>
+                <div><p style="text-align:start">Mua sắm trực tuyến các loại cá cảnh nhiệt đới nước ngọt tốt nhất.Mua cá trực tuyến một cách thoải mái khi biết rằng thú cưng thủy sinh mới của bạn sẽ đến với bạn một cách an toàn và kịp thời. Là một trong những cửa hàng bán cá cảnh hàng đầu,chúng tôi cung cấp một trong những loại cá sống trực tuyến đa dạng nhất. Mức tồn kho thay đổi thường xuyên, vì vậy vui lòng liên hệ với đội ngũ nhân viên thân thiện của chúng tôi nếu bạn có bất kỳ câu hỏi nào.</p></div>
+            </div>
+            <div class="row d-flex" style="margin:24px 0px">
+
+
+                @using (Html.BeginForm("Index", "Products", FormMethod.Get, new { id = "myForm" }))
+                {
+                    <p>
+                        @Html.DropDownList("sortOrder", new List<SelectListItem> {
+                            new SelectListItem{Text="Theo giá (thấp đến cao)", Value="thap-cao"},
+                            new SelectListItem{Text="Theo giá (cao đến thấp)", Value="cao-thap"},
+                            new SelectListItem{Text="Theo tên (A-Z)", Value="a-z"},
+                            new SelectListItem{Text="Theo tên (Z-A)", Value="z-a"},
+                   }, "Chọn cách sắp xếp...", new { @class = "form-select form-select-lg mb-3" })
+                    </p>
+                }
+            </div>
+
+            @if (ViewBag.Search == "")
+            {
+                <div class="row" id="productList" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">DANH SÁCH SẢN PHẨM</h4>
+                    <div íhee></div>
+
+                    @foreach (var item in Model)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px" data-price="@item.Gia">
+                            <a href="/products/details/@item.SanPhamID"><img src="~/Data/img/@item.HinhAnh" class="card-img-top"></a>
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+
+                                <!-- Ví dụ về cách hiển thị giá trong thẻ span -->
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+
+                    @{
+                        int PrePage = ViewBag.Page - 1;
+                        if (PrePage <= 0)
+                        {
+                            PrePage = 1;
+                        }
+                        int NextPage = ViewBag.Page + 1;
+                        if (NextPage > ViewBag.NoOfPages)
+                        {
+                            NextPage = ViewBag.NoOfPages;
+                        }
+
+
+                    }
+                    <ul class="pagination justify-content-center">
+                        <li class="page-item ">
+
+                            <a class="page-link" href="/products/index?page=@PrePage">
+                                Pre
+                            </a>
+
+                        </li>
+                        @for (int i = 0; i < ViewBag.NoOfPages; i++)
+                        {
+                            if (i + 1 == ViewBag.Page)
+                            {
+                                <li class="page-item active">
+                                    <a class="page-link" href="/products/index?page=@(i+1)">
+                                        @(i+1)
+                                    </a>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="page-item ">
+                                    <a class="page-link" href="/products/index?page=@(i+1)&sortOrder=@ViewBag.SortOrder&Gia=@ViewBag.Gia">
+                                        @(i+1)
+                                    </a>
+                                </li>
+                            }
+
+                        }
+                        <li class="page-item active">
+                            <a class="page-link" href="/products/index?page=@NextPage">
+                                Next
+                            </a>
+                        </li>
+
+                    </ul>
+                </div>
+
+            }
+            else if (ViewBag.Search == "1")
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">CÁ NƯỚC MẶN</h4>
+                    @foreach (var item in ViewBag.Canuocman)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else if (ViewBag.Search == "2")
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">CÁ NƯỚC NGỌT</h4>
+                    @foreach (var item in ViewBag.Canuocngot)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else if (ViewBag.Search == "3")
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">TÔM CẢNH</h4>
+                    @foreach (var item in ViewBag.Tomcanh)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else if (ViewBag.Search == "4")
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">CUA CẢNH</h4>
+                    @foreach (var item in ViewBag.Cuacanh)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else if (ViewBag.Search == "5")
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">SAN HÔ</h4>
+                    @foreach (var item in ViewBag.Sanho)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else if (ViewBag.Search == "6")
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">HẢI QUỲ</h4>
+                    @foreach (var item in ViewBag.Haiquy)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else if (ViewBag.Search == "7")
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">BỂ CÁ</h4>
+                    @foreach (var item in ViewBag.Beca)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else if (ViewBag.Search == "8")
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px;text-align:center ">PHỤ KIỆN</h4>
+                    @foreach (var item in ViewBag.Phukien)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <img src="~/Data/img/@item.HinhAnh" class="card-img-top">
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+                </div>
+            }
+            else
+            {
+                <div class="row" style="background-color: #e8e5df5c; border-radius: 30px 30px 0px 0px">
+                    <h4 style="background-color: #fcb69f; padding: 12px; border-radius: 30px 30px 0px 0px "><span>Tìm kiếm :</span> @ViewBag.Search</h4>
+                    @foreach (var item in Model)
+                    {
+                        <div class="card table-hover" style="width: 16rem;margin:8px;padding:0px">
+                            <a href="#"><img src="~/Data/img/@item.HinhAnh" class="card-img-top"></a>
+                            <div class="card-body">
+                                <h5 class="card-title">@item.TenSanPham</h5>
+                                <p class="card-text"><span style="color:red">Giá : <span class="product-price">@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00} vnđ", @item.Gia))</span></span></p>
+                                <a href="/Cart/Add/@item.SanPhamID" class="btn btn-primary" style="justify-content: center; display: flex;">Mua hàng</a>
+                            </div>
+                        </div>
+                    }
+
+
+                </div>
+            }
+
+        </div>
+    </div>
+
+
+</div>
+
+<script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script>
+    $(function () {
+        $('#sortOrder').change(function () {
+            $('#myForm').submit();
+        });
+    });
+</script>
+
+<script>
+    function filterByPrice() {
+        var selectedRadio = $('input[name="Gia"]:checked');
+        console.log(selectedRadio)
+        if (selectedRadio.length > 0) {
+            var minPrice = parseFloat(selectedRadio.data('min'));
+            var maxPrice = parseFloat(selectedRadio.data('max'));
+
+            // Hiển thị hoặc ẩn các sản phẩm dựa trên giá được chọn
+            $('.card').each(function () {
+                var productPrice = parseFloat($(this).data('price'));
+                console.log(this)
+                console.log($(this))
+                console.log(productPrice)
+                if (!isNaN(productPrice) && productPrice >= minPrice && productPrice <= maxPrice) {
+                    $(this).show();
+                } else {
+                    $(this).hide();
+                }
+            });
+
+            // Ẩn thông báo nếu có
+            $('#alertMessage').html('');
+        } else {
+            // Không có ô radio được chọn, hiển thị thông báo
+            $('#alertMessage').html('Vui lòng chọn một khoảng giá.');
+        }
+    }
+</script>

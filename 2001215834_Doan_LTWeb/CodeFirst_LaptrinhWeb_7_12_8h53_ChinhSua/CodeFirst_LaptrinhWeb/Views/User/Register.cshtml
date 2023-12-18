@@ -1,0 +1,53 @@
+﻿@model CodeFirst_LaptrinhWeb.Models.User
+@{
+    ViewBag.Title = "Register";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+
+<div class="container" style="min-height:600px">
+    <h3 style="text-align:center">Đăng kí tài khoản</h3>
+    @using (Html.BeginForm("Register", "User", FormMethod.Post))
+    {
+        <input type="hidden" name="Role" value="user" />
+        <div class="row">
+            <div class="col-2"></div>
+            <div class="col-6">
+                @Html.LabelFor(model => model.UserName)
+                @Html.TextBoxFor(model => model.UserName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2"></div>
+            <div class="col-6">
+                @Html.LabelFor(model => model.Password)
+                @Html.TextBoxFor(model => model.Password, new { @class = "form-control", type = "password" })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2"></div>
+            <div class="col-6">
+                @Html.Label("Retype Password", new { @for = "retypePassword" })
+                @Html.TextBox("retypePassword", "", new { @class = "form-control", type = "password" })
+                @Html.ValidationMessage("retypePassword", "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-2"></div>
+            <div class="col-6">
+                @Html.LabelFor(model => model.EmailAddress)
+                @Html.TextBoxFor(model => model.EmailAddress, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.EmailAddress, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-2"></div>
+            <div class="col-6">
+                <button type="submit" class="btn btn-primary">Đăng kí</button>
+            </div>
+        </div>
+    }
+</div>

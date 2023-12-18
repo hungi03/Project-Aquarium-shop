@@ -1,0 +1,111 @@
+﻿@model List<CodeFirst_LaptrinhWeb.Models.SANPHAMCACANH>
+@{
+    ViewBag.Title = "Index";
+
+}
+
+<div class="container-fluid" style="margin-top:12px">
+    <h3 style="text-align:center">Quản lí sản phẩm</h3>
+    <div style="display:flex">
+        <div style=" padding: 12px; margin: 12px 12px; width: 10%; background-color: bisque; font-size: 20px; text-align: center; border-radius: 20px;">
+            <a href="/Admin/Manage/create" style="text-decoration:none">Thêm mới</a>
+        </div>
+        <div style=" padding: 12px; margin: 12px 12px; width: 10%; background-color: bisque; font-size: 20px; text-align: center; border-radius: 20px;">
+            <a href="/User/Logout" class="btn-link" style="text-decoration:none">Đăng xuất</a>
+        </div>
+    </div>
+   
+    <table class="table table-bordered" style="width:100%;font-size:18px">
+        <thead>
+            <tr>
+                <th scope="col">Tên sản phẩm</th>
+                <th scope="col">Giá </th>
+                <th scope="col">Loại</th>
+                <th scope="col">Hình Ảnh</th>
+
+                <th scope="col">Hành Động</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.TenSanPham</td>
+                    <td>@(string.Format(new System.Globalization.CultureInfo("vi-VN"),"{0:0,00}", @item.Gia))</td>
+                    <td>@item.LOAICA.TenLoaiCa</td>
+                    <td><img src="~/Data/img/@item.HinhAnh" style="width:200px" /></td>
+
+                    <td>
+                        <div class="row" style="justify-content:space-evenly;color:white">
+                            <div style="padding: 12px; margin: 12px 12px; width: 30%; background-color: #198754; font-size: 20px; text-align: center; border-radius: 20px; ">
+                                <a href="/admin/manage/details/@item.SanPhamID" style="text-decoration: none; color: white;" area="Admin">Xem Chi Tiết</a>
+                            </div>
+                            <div style=" padding: 12px; margin: 12px 12px; width: 20%; background-color: #0d6efd; font-size: 20px; text-align: center; border-radius: 20px;">
+                                <a href="/admin/manage/edit/@item.SanPhamID" style="text-decoration: none; color: white;" area="Admin">Sửa</a>
+                            </div>
+                            <div style="padding: 12px; margin: 12px 12px; width: 20%; background-color: #dc3545; font-size: 20px; text-align: center; border-radius: 20px; ">
+                                <a href="/admin/manage/delete/@item.SanPhamID" style="text-decoration: none; color: white; area=" Admin"">Xóa</a>
+                            </div>
+                        </div>
+
+
+
+
+                    </td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+    @{
+        int PrePage = ViewBag.Page - 1;
+        if (PrePage <= 0)
+        {
+            PrePage = 1;
+        }
+        int NextPage = ViewBag.Page + 1;
+        if (NextPage > ViewBag.NoOfPages)
+        {
+            NextPage = ViewBag.NoOfPages;
+        }
+
+
+    }
+    <ul class="pagination justify-content-center">
+        <li class="page-item ">
+
+            <a class="page-link" href="/admin/products/index?page=@PrePage">
+                Pre
+            </a>
+
+        </li>
+        @for (int i = 0; i < ViewBag.NoOfPages; i++)
+        {
+            if (i + 1 == ViewBag.Page)
+            {
+                <li class="page-item active">
+                    <a class="page-link" href="/admin/manage/index?page=@(i+1)">
+                        @(i+1)
+                    </a>
+                </li>
+            }
+            else
+            {
+                <li class="page-item ">
+                    <a class="page-link" href="/admin/manage/index?page=@(i+1)">
+                        @(i+1)
+                    </a>
+                </li>
+            }
+
+        }
+        <li class="page-item active">
+            <a class="page-link" href="/admin/manage/index?page=@NextPage">
+                Next
+            </a>
+        </li>
+
+    </ul>
+</div>
+
+
